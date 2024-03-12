@@ -1,0 +1,95 @@
+.head{
+    display: flex;
+    background-color: antiquewhite;
+    color: rgb(34, 34, 33);
+    justify-content: space-evenly;
+}
+
+.icon{
+    width: 35px;
+    height: 35px;
+    float: right; 
+    
+    
+    }
+    .container{
+    display: flex;
+    
+    }
+    #icon2{
+        width: 30px;
+        height: 30px;
+        display: flex;
+    }
+    #container2{
+        border: 1px;
+        border-radius: 80px;
+    }
+    #icon3{
+        display: flex;
+        color: red;
+        font-size: medium;
+    }
+  
+  
+   .all{
+    display: inline-block;
+   }
+  
+   #iphone{
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+        border-radius: 30px solid;
+   }
+   .button{
+    background-color: blue;
+    color: white;
+    padding: 30px;
+    margin-right: 40%;
+
+     margin: 20px 30px; 
+    cursor: pointer;
+   
+   }
+   #but{
+    background-color: blue;
+    color: white;
+    padding: 30px;
+    margin-left: 80%;
+    cursor: pointer;
+
+   }
+   .items2{
+    width: 50%;
+    height: 50%; 
+    display: flex;
+    
+    justify-content: space-between;
+
+   } 
+.imgA{display: grid;
+
+}
+.imgB{display: grid;
+
+}
+.imgC{display: grid;
+
+}
+.imgE{display: grid;
+
+}
+.imgD{display: grid;
+
+}
+.imgF{display: grid;
+
+}
+.boddie{
+    display: flex;
+}
+
+ 
